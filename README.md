@@ -37,8 +37,9 @@ This project presents a 3D model of a hexagonal nut and bolt created using AutoC
 - Thread Pitch: 1.5 mm (approx.)
 
 ## 📁 Files Included
-- AutoCAD 3D model (.dwg)
-- Image previews
+### AutoCAD 3D model 
+![dwg](./hex-nut-bolt-model.dwg)
+- Image previews 
 
 ## 🎯 Learning Outcome
 - 3D CAD modeling
