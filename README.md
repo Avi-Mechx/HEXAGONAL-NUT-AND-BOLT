@@ -1,6 +1,6 @@
 # 🔩 Hexagonal Nut and Bolt – AutoCAD 3D Design
 
-![Preview](./isometric-view.png)
+![Preview](./Front%20view.png)
 
 ## 📌 About the Project
 This project presents a 3D model of a hexagonal nut and bolt created using AutoCAD. It demonstrates basic mechanical design principles and thread representation.
@@ -16,7 +16,7 @@ This project presents a 3D model of a hexagonal nut and bolt created using AutoC
 
 ## 📷 Model Views
 
-### Front View
+### Assembly Front View
 ![front](./Front%20view.png)
 
 ### Front View
@@ -28,8 +28,8 @@ This project presents a 3D model of a hexagonal nut and bolt created using AutoC
 ### SE Isometric View
 ![SE Iso](./SE%20Isometric.png)
 
-### Isometric View
-![Iso](./isometric-view.png)
+### NW Isometric View
+![NW Iso](./NW%20Isometric.png)
 
 
 ## ⚙️ Technical Details
