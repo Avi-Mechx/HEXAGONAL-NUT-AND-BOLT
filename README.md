@@ -16,8 +16,8 @@ This project presents a 3D model of a hexagonal nut and bolt created using AutoC
 
 ## 📷 Model Views
 
-### Isometric View
-![Iso](./isometric-view.png)
+### Front View
+![front](./Front%20view.png)
 
 ### Front View
 ![Front](./front-view.png)
