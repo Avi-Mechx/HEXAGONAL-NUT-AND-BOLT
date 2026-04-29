@@ -1,6 +1,6 @@
 # 🔩 Hexagonal Nut and Bolt – AutoCAD 3D Design
 
-![Preview](./Front%20view.png)
+![Preview](./Assembly%20Front%20view.png
 
 ## 📌 About the Project
 This project presents a 3D model of a hexagonal nut and bolt created using AutoCAD. It demonstrates basic mechanical design principles and thread representation.
@@ -17,7 +17,7 @@ This project presents a 3D model of a hexagonal nut and bolt created using AutoC
 ## 📷 Model Views
 
 ### Assembly Front View
-![front](./Front%20view.png)
+![front](./Assembly%20Front%20view.png)
 
 ### Front View
 ![Front](./Front%20view%202.png)
